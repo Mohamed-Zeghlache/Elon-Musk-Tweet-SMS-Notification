@@ -77,5 +77,5 @@ while True:
                         from_=TWILIO_PHONE_NUMBER
                     )
 
-    
+    # Wait for a minute before the next iteration
     time.sleep(60)
